@@ -1,4 +1,4 @@
-FROM lsiobase/alpine.nginx:3.8
+FROM lsiobase/alpine.nginx.arm64:3.8
 
 # set version label
 ARG BUILD_DATE
